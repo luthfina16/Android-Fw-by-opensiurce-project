@@ -1,0 +1,10 @@
+www.lineages.org 
+LineageOS Android Distribution(cyanogenmod)
+A free and open-source operating system for various devices, based on the Android mobile platform.
+
+https://xiaomi.eu/
+
+https://xdaforums.com/
+everything of changing android os to android beta
+
+I dont love direct to direct porting device. (example)=one ui(user interface) Samsung to xiaomi hyper os/transferring one ui to other than Samsung galaxy phones like as xiaomi, oppo etc or xiaomi MI UI(user interface) (hyperos) to Samsung if it is possible.
